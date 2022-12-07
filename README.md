@@ -18,6 +18,12 @@
 
 <br>
 
+
+#### Code,
+
+`anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take2-webapp/src/main/webapp$ cat index.jsp` 
+
+
 #### Git control,
 
 `anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take1$ touch README.md`
@@ -34,7 +40,5 @@
 
 `anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take1$ git push -u origin main`
 
-<br>
-<br>
-<br>
+
 
