@@ -20,7 +20,7 @@
 
 #### Code,
 
-`anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take2-webapp/src/main/webapp$ cat index.jsp` 
+`anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take1/src/main/webapp$ cat index.jsp` 
 
 <br>
 
