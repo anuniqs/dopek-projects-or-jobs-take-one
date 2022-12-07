@@ -18,11 +18,11 @@
 
 <br>
 
-
 #### Code,
 
 `anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take2-webapp/src/main/webapp$ cat index.jsp` 
 
+<br>
 
 #### Git control,
 
@@ -39,6 +39,3 @@
 `anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take1$ git remote add origin http://192.168.56.55:3000/anuniqs/maven-project-take1.git`
 
 `anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take1$ git push -u origin main`
-
-
-
